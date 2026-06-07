@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;React.js+%7C+Java+%7C+Spring+Boot;Open+to+Dubai+%26+Global+Opportunities;Building+Scalable+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;React.js+%7C+Java+%7C+Spring+Boot;Building+Scalable+Web+Applications" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -26,9 +26,9 @@ public class Badalingam {
 
     String name       = "Badalingam C";
     String role       = "Full-Stack Software Engineer";
-    String location   = "Tamil Nadu, India → Open to Dubai & Global";
+    String location   = "Tamil Nadu, India";
     String[] stack    = {"React.js", "Java", "Spring Boot", "MongoDB", "PostgreSQL"};
-    String[] seeking  = {"Full-time roles", "Dubai / UAE", "International opportunities"};
+    String[] seeking  = {"Full-time roles", "Product Development", "Collaborative Teams"};
 
     String greet() {
         return "Hi! I build scalable, user-focused web apps end-to-end. Let's connect!";
@@ -38,7 +38,7 @@ public class Badalingam {
 
 - 🔭 Currently building **full-stack web applications** using React.js, Java & Spring Boot
 - 🏢 Previously at **Ford Motor Pvt. Ltd.** — developed Angular apps & backend services
-- 🌍 Actively seeking opportunities in **Dubai, UAE & other international markets**
+- 🌍 Based in **Tamil Nadu, India**
 - 💡 Passionate about clean code, modular architecture, and application performance
 - 📫 Reach me at **badalingamc@gmail.com** · **+91 7010696393**
 
@@ -124,13 +124,11 @@ public class Badalingam {
 
 ---
 
-## 🌍 Open to Opportunities
+## 📬 Let's Connect
 
 <div align="center">
 
-**🇦🇪 Dubai & UAE &nbsp;|&nbsp; 🌐 International Remote &nbsp;|&nbsp; ✈️ Open to Relocation**
-
-*Full-time · Full-Stack / React / Java / Spring Boot roles*
+*Full-Stack / React / Java / Spring Boot Engineer — available for full-time roles*
 
 [![Connect on LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badalingam-c-385852202)
 [![Send Email](https://img.shields.io/badge/Hire%20Me-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:badalingamc@gmail.com)
