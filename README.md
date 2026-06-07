@@ -90,13 +90,11 @@ public class Badalingam {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Lingamleee&show_icons=true&theme=default&hide_border=true&title_color=2563eb&icon_color=2563eb&text_color=1e293b&bg_color=f8fafc" height="165" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lingamleee&layout=compact&theme=default&hide_border=true&title_color=2563eb&text_color=1e293b&bg_color=f8fafc" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lingamleee&theme=default&hide_border=true&ring=2563eb&fire=2563eb&currStreakLabel=2563eb" height="165" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lingamleee&theme=default&hide_border=true&ring=2563eb&fire=2563eb&currStreakLabel=2563eb" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lingamleee&theme=github" width="100%" />
 
 </div>
 
