@@ -86,18 +86,6 @@ public class Badalingam {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lingamleee&theme=default&hide_border=true&ring=2563eb&fire=2563eb&currStreakLabel=2563eb" height="165" />
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lingamleee&theme=github" width="100%" />
-
-</div>
-
 ---
 
 ## 💼 Work Experience
