@@ -77,12 +77,13 @@ public class Badalingam {
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🛒 **[Rural E-commerce Platform](https://github.com/Lingamleee)** | Full-stack e-commerce app for rural business ordering with product, order & customer management | React.js · Spring Boot · MongoDB |
-| 💰 **[Finance Web Application](https://github.com/Lingamleee)** | Finance app with role-based access control and scalable backend architecture | React.js · Java · Spring Boot |
-| 🍔 **[Food Ordering App](https://github.com/Lingamleee)** | React-based food ordering with Redux state management & REST integration | React.js · Redux · REST API |
-| 💬 **[MERN Chat Application](https://github.com/Lingamleee)** | Real-time chat app with user auth and live messaging features | MongoDB · Express · React · Node |
+| Project | Description | Tech Stack | Live |
+|---------|-------------|------------|------|
+| 🐝 **PocketBee** | Personal money ledger — track money given & received with contacts. Real-time sync + React Native mobile app. | React · Vite · Redux Toolkit · Tailwind · Node.js · Express · MongoDB · React Native | [🔗 Live](https://pocketbee.kuttyjapantech.in/) |
+| 📒 **LoanBook** | Fintech app — EMI calculator, amortization schedules, loan/payment/expense tracking, PDF reports, dark mode & global search. | React 18 · Vite · Tailwind · Recharts · Framer Motion · Node.js · Express · MongoDB · JWT | [🔗 Live](https://loanbook.kuttyjapantech.in/) |
+| 🎆 **VediWorld** | Full-stack cracker e-commerce with WhatsApp orders, PDF price list, admin dashboard & visitor analytics. | React 19 · TypeScript · Vite 6 · Tailwind 4 · Node.js · Express · MongoDB · JWT · Cloudinary | [🔗 Live](https://www.vediworld.com/) |
+| 🍔 **Food Ordering App** | React-based food ordering with Redux state management & REST integration. | React.js · Redux · REST API | — |
+| 💬 **MERN Chat Application** | Real-time chat app with user auth and live messaging features. | MongoDB · Express · React · Node | — |
 
 ---
 
